@@ -5,7 +5,7 @@ export default function Intro() {
         Journey.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Immigration Law Firm
+        Immigration Law Firm - Your Door to Canada.
               </h4>
     </section>
   )
